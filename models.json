@@ -1,0 +1,20 @@
+// blog create
+{
+  "username": "dpauly84",
+  "title": "My First Blog",
+  "content": "This is my first blog im trying to save into database"
+}
+
+// user register
+{
+  "username": "dpauly84",
+  "email": "dpauly84@gmail.com",
+  "password": "password"
+}
+
+
+// user login
+{
+  "username": "dpauly84",
+  "password": "password"
+}
